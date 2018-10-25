@@ -1,0 +1,145 @@
+body{background: #979A9A;
+
+}
+header div img {float:left;
+	            height:200px; 
+	            background: #979A9A;
+	            border-radius: 100%;
+
+}
+h1 {text-align: center;
+	background: #979A9A;
+	font-size:300%;
+	font-family: "Baskerville Old Face"
+	width:300px;
+	margin:20px auto;
+	padding:50px; 
+    color:black;
+	  
+
+}
+.navegador{clear:both;
+	       background-color: red;
+           width: 1200px; 
+           height: 200px; 
+           margin: 50px auto;  
+
+}
+.contenedor{ width:300px; 
+	         height: 200px;
+	         float: left;
+	         -webkit-transition:height 0.4s;
+
+}
+#n1{background-color: rgb(208,101,3);
+
+}
+#n2{background-color: rgb(233,147,26);
+
+}
+#n3{background-color: rgb(22,145,190);
+
+}
+#n4{background-color: rgb(22,107,162);
+
+}
+
+nav div img {display:block;
+	         margin:55px auto; 
+             height: 60px;
+             background-color: rgba(255,255,255,.15);
+             -webkit-border-radius:100%;
+             -webkit-box-shadow : 0px 0px 0px 30px rgba(255,255,255,.0);
+             -webkit-transition:box-shadow 0.4s;	   
+}
+.texto{ font-size:20px;
+        text-align: center;
+        padding-top:7px;
+        opacity: 0.6;
+        -webkit-transition:padding-top 0.4s; 
+        
+
+}
+
+.contenedor:hover{height:250px;
+
+}
+.contenedor:hover .texto {padding-top:42px; 
+	                      opacity:1;
+
+}
+.contenedor:hover .adidas{-webkit-box-shadow:0px 0px 0px 0px rgba(255,255,255,.6);
+
+}
+#m2{text-decoration:none;
+    color:black; 
+
+}
+aside {background:white; 
+	   float:right;
+	   width:40%; 
+	   height: 250px;
+	   
+	   
+}
+aside article {padding-left: 05%;
+	padding-right: 05%;
+	font-family: "Baskerville Old Face"
+
+}
+
+aside article p {text-decoration: underline;
+
+}
+
+aside article img {height: 100px;
+                   
+                   border:2px solid black;
+                   
+}
+
+h3 {color: red;}
+
+.uno{background: white;
+	width:58%;
+	height:250px;
+	font-family: "Baskerville Old Face";
+	margin-left:10px;
+
+	
+
+
+	
+}
+section article p {padding-left: 05%;
+	padding-right: 05%;
+	
+}
+h2 {padding-left: 05%;
+	padding-right: 05%;
+	padding-top: 05%;
+	color:red;
+	
+
+}
+
+.dos{background: white;
+	width: 98%;
+	margin-left:10px;
+	margin-right: 10px;
+	height: 400px;
+	font-family: "Baskerville Old Face"
+}
+
+.dos ul {padding-left:75px;
+
+}
+footer { background:black;
+	     color:white;
+         clear: both;
+         margin-top: 20px;
+         text-align: center;
+         height:30px;
+         padding-top:10px ;   
+
+} 
